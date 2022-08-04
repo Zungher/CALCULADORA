@@ -5,7 +5,7 @@ class Main {
   static Scanner sc=new Scanner(System.in);
   public static void main(String[] args) {
      
-        System.out.println ("*********** Menú ***************");
+    System.out.println ("*********** Menú ***************");
     System.out.println ("***    1. Aritmética         ***");
     System.out.println ("***    2. Estadística        ***");
     System.out.println ("***    3. Matrices           ***");
